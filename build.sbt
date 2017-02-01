@@ -21,5 +21,4 @@ libraryDependencies ++= {
 
   )
 }
-libraryDependencies += "com.github.etaty" %% "rediscala" % "1.8.0-SNAPSHOT"
 Revolver.settings
